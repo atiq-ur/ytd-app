@@ -45,4 +45,5 @@ ytd-frontend/out/
 
 # Ignore downloads
 /tmp/
+.idea/
 
