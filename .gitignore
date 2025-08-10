@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.env
+*.venv
+venv/
+env/
+
+# VSCode
+.vscode/
+
+# macOS
+.DS_Store
+
+# Linux
+*.swp
+
+# Node.js
+node_modules/
+youtube-downloader-frontend/node_modules/
+
+# Logs
+*.log
+
+# Temp files
+*.tmp
+*.bak
+
+# Output
+*.mp4
+*.m4a
+*.webm
+*.part
+*.crdownload
+
+# Frontend build
+youtube-downloader-frontend/.next/
+youtube-downloader-frontend/out/
+
+# Misc
+*.sqlite3
+*.db
+
+# Ignore downloads
+/tmp/
+
