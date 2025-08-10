@@ -3,6 +3,14 @@
   <component name="CopilotDiffPersistence">
     <option name="pendingDiffs">
       <map>
+        <entry key="$PROJECT_DIR$/.gitignore">
+          <value>
+            <PendingDiffInfo>
+              <option name="filePath" value="$PROJECT_DIR$/.gitignore" />
+              <option name="updatedContent" value="# Python&#10;__pycache__/&#10;*.py[cod]&#10;*.pyo&#10;*.pyd&#10;*.env&#10;*.venv&#10;venv/&#10;env/&#10;&#10;# VSCode&#10;.vscode/&#10;&#10;# macOS&#10;.DS_Store&#10;&#10;# Linux&#10;*.swp&#10;&#10;# Node.js&#10;node_modules/&#10;youtube-downloader-frontend/node_modules/&#10;&#10;# Logs&#10;*.log&#10;&#10;# Temp files&#10;*.tmp&#10;*.bak&#10;&#10;# Output&#10;*.mp4&#10;*.m4a&#10;*.webm&#10;*.part&#10;*.crdownload&#10;&#10;# Frontend build&#10;youtube-downloader-frontend/.next/&#10;youtube-downloader-frontend/out/&#10;&#10;# Misc&#10;*.sqlite3&#10;*.db&#10;&#10;# Ignore downloads&#10;/tmp/&#10;" />
+            </PendingDiffInfo>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/main.py">
           <value>
             <PendingDiffInfo>

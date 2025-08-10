@@ -19,7 +19,7 @@ env/
 
 # Node.js
 node_modules/
-youtube-downloader-frontend/node_modules/
+ytd-frontend/node_modules/
 
 # Logs
 *.log
@@ -36,8 +36,8 @@ youtube-downloader-frontend/node_modules/
 *.crdownload
 
 # Frontend build
-youtube-downloader-frontend/.next/
-youtube-downloader-frontend/out/
+ytd-frontend/.next/
+ytd-frontend/out/
 
 # Misc
 *.sqlite3
